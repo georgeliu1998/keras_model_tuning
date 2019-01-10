@@ -1,7 +1,7 @@
 # Optimizing Neural Networks
 Did you ever wonder which parameters are most impactful when it comes to neural networkings model tuning? I did. That's why I worked on this project. The goal was to develop intuition about neural network parameter tuning (including hyperparameter).
 
-In this project, I use Keras to build a generic neural network class which can be used to test model performance. With the power of GPU using Colab, building and tesing neural networks is a pleasure. So let's do this!
+In this project, I use Keras to build a generic neural network class which can be used to test model performance. With the power of Colab GPU, building and tesing neural networks is a pleasure. So let's do this!
 
 
 ## How to Use
