@@ -3,6 +3,7 @@ Did you ever wonder which parameters are most impactful when it comes to neural 
 
 In this project, I use Keras to build a generic neural network class which can be used to test model performance. With the power of Colab GPU, building and tesing neural networks is a pleasure. So let's do this!
 
+The corresponding Medium article can be found [here](https://towardsdatascience.com/optimizing-neural-networks-where-to-start-5a2ed38c8345).
 
 ## How to Use
 It's easy! You just need to click the "Open in Colab" button at the top of the Jupyter Notebook. Nevertheless, please refer to the below Environment section for detailed software requirements.
